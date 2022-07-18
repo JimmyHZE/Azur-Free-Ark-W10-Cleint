@@ -17,11 +17,14 @@ Creator: `Debug.it`
 
 This free client is only available thanks to the hard work and efforts of `Debug.it`. Permission was obtained to maintain/update the original source and release client versions accordingly.
 
-## Current Azur Release (v1.0.2)
+## Current Azur Release (v1.0.3)
 
- - Fixed aimbot occasionally not targeting
-
-- Added overall stability fixes
+ - Major stability fixes
+ - Fixed crashing issues during transferring/exiting sessions
+ - Fixed infinite/long arms
+ - Fixed insta turn
+ - Centered enemy warning label
+ - Default aim key now right mouse button
 
 ## Features
 
