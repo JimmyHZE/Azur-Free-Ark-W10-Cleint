@@ -100,4 +100,4 @@ This free client is only available thanks to the hard work and efforts of `Debug
 ## Compatibility
 
 - **Windows 10**
-- **Windows 11 (Unstable)**
+- **Windows 11**
