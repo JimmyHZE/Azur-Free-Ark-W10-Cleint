@@ -1,5 +1,5 @@
 
-# Azur-Free-Ark-Cleint
+# Azur-Free-Ark-Client
 
 Hello, this is the official repository for the free `Azur Ark Client`.
 
