@@ -12,9 +12,9 @@ Discord Link Will Always Be Up To Date Here So Bookmark This Repo
 `
 
 ## Setup Instructions
- - Download the **Azur Ark Client - v1.0.3.exe** file above.
- - Ensure that **Ark: Survival Evolved** is running first.
- - Run the **Azur Ark Client** EXE that you just downloaded.
+ - Download the `Azur Ark Client - vX.X.X.exe` file above.
+ - Ensure that `Ark: Survival Evolved` is running first.
+ - Run the `Azur Ark Client` EXE that you just downloaded.
  - That's it.
    - For best results, run the **Azur Ark Client** when you're on the main menu of ark or already fully loaded into a session/spawned in.
 
