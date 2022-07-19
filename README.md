@@ -26,6 +26,13 @@ This free client is only available thanks to the hard work and efforts of `Debug
  - Centered enemy warning label
  - Default aim key now right mouse button
 
+## Setup Instructions
+ - Download the **Azur Ark Client - v1.0.3.exe** file above.
+ - Ensure that **Ark: Survival Evolved** is running first.
+ - Run the **Azur Ark Client** EXE that you just downloaded.
+ - That's it.
+   - For best results, run the **Azur Ark Client** when you're on the main menu of ark or already fully loaded into a session/spawned in.
+
 ## Features
 
 - Aimbot
