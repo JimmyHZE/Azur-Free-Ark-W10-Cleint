@@ -24,12 +24,10 @@ Creator: `Debug.it`
 
 This free client is only available thanks to the hard work and efforts of `Debug.it`. Permission was obtained to maintain/update the original source and release client versions accordingly.
 
-## Current Azur Release (v1.0.4)
+## Current Azur Release (v1.0.5)
 
- - Added Save/Load Settings (Located at Menu --> Settings --> Binds & Confgis Tab top right)
- - Added Auto-Unlock Explorer Notes (Located at Menu --> Miscellaneous)
- - Added Force-Unlock Tek Engrams (Located at Menu --> Miscellaneous)
- - `Force-Unlock Tek Engrams: CRAFTING ONLY, INVENTORY ITEMS EXCLUDED`
+ - Added Structure ESP (Located at: Menu --> Visuals --> OTHER ESP'S tab top right-ish --> Structure ESP)
+ - Fixed issue regarding game crashing on inital inject (Config Issue)
 
 ## Features
 
@@ -60,6 +58,7 @@ This free client is only available thanks to the hard work and efforts of `Debug
   - Container ESP
     - Container Filters
     - Container Fill Count
+  - Structure ESP
   - Turret ESP
     - Full Features
 - Miscellaneous
