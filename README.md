@@ -72,6 +72,8 @@ This free client is only available thanks to the hard work and efforts of `Debug
   - Infinite Arms
   - Speed Modifier
   - Infinite Orbital Camera
+  - Force-Unlock Tek Engrams
+  - Auto-Unlock Explorer Notes
 - Configurations
   - Crosshair
     - Crosshair Size
