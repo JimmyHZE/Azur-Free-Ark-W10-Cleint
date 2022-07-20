@@ -24,14 +24,12 @@ Creator: `Debug.it`
 
 This free client is only available thanks to the hard work and efforts of `Debug.it`. Permission was obtained to maintain/update the original source and release client versions accordingly.
 
-## Current Azur Release (v1.0.3)
+## Current Azur Release (v1.0.4)
 
- - Major stability fixes
- - Fixed crashing issues during transferring/exiting sessions
- - Fixed infinite/long arms
- - Fixed insta turn
- - Centered enemy warning label
- - Default aim key now right mouse button
+ - Added Save/Load Settings (Located at Menu --> Settings --> Binds & Confgis Tab top right)
+ - Added Auto-Unlock Explorer Notes (Located at Menu --> Miscellaneous)
+ - Added Force-Unlock Tek Engrams (Located at Menu --> Miscellaneous)
+ - `Force-Unlock Tek Engrams: CRAFTING ONLY, INVENTORY ITEMS EXCLUDED`
 
 ## Features
 
