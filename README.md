@@ -4,6 +4,11 @@
 Hello, this is the official repository for the free `Azur Ark Client`.
 
 We consist of a small team that maintains the original source with permission from the original creator and release up-to-date clients compatible with the latest release of the UWP version of `ARK: Survival Evolved`.
+
+Original Creator: `Debug.it`
+
+This free client is only available thanks to the hard work and efforts of `Debug.it`. Permission was obtained to maintain/update the original source and release client versions accordingly.
+
 ## Official Discord Link
 
 Azur Discord Server (https://discord.gg/Vfbaep56rs)
@@ -17,12 +22,6 @@ Discord Link Will Always Be Up To Date Here So Bookmark This Repo
  - Run the `Azur Ark Client` EXE that you just downloaded.
  - That's it.
    - For best results, run the **Azur Ark Client** when you're on the main menu of ark or already fully loaded into a session/spawned in.
-
-## Original Creator
-
-Creator: `Debug.it`
-
-This free client is only available thanks to the hard work and efforts of `Debug.it`. Permission was obtained to maintain/update the original source and release client versions accordingly.
 
 ## Current Azur Release (v1.0.7)
 
