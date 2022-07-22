@@ -27,6 +27,7 @@ This free client is only available thanks to the hard work and efforts of `Debug
 ## Current Azur Release (v1.0.7)
 
  - Added New Menu
+ ![alt text](https://cdn.discordapp.com/attachments/892881623278817290/999955319092424764/unknown.png)
 
 ## Features
 
