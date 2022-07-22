@@ -24,10 +24,11 @@ Creator: `Debug.it`
 
 This free client is only available thanks to the hard work and efforts of `Debug.it`. Permission was obtained to maintain/update the original source and release client versions accordingly.
 
-## Current Azur Release (v1.0.5)
+## Current Azur Release (v1.0.6)
 
- - Added Structure ESP (Located at: Menu --> Visuals --> OTHER ESP'S tab top right-ish --> Structure ESP)
- - Fixed issue regarding game crashing on inital inject (Config Issue)
+ - Fixed/Added Hide Team Turrets
+ - Fixed/Added Hide Team Structures
+ - Fixed/Added Hide Team Containers
 
 ## Features
 
