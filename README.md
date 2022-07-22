@@ -26,7 +26,7 @@ Discord Link Will Always Be Up To Date Here So Bookmark This Repo
 ## Current Azur Release (v1.0.7)
 
  - Added New Menu
-   - ![alt text](![image](https://cdn.discordapp.com/attachments/999050490757255371/1000014440932053083/unknown.png)
+   - ![alt text]([http://url/to/img.png](https://cdn.discordapp.com/attachments/999050490757255371/1000014440932053083/unknown.png))
 
 ## Features
 
